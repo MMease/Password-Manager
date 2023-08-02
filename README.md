@@ -73,7 +73,8 @@
 - Configure the database for the Manager.
   - Create Admin account
 
+![Passbolt database Configure ](https://github.com/MMease/Password-Manager/assets/42321472/8fcce13f-a3a3-4c10-80e9-2846872a5671)
 
 - This is your Password Managers homepage. Your all done!!!!
 
-![Passbolt database Configure ](https://github.com/MMease/Password-Manager/assets/42321472/8fcce13f-a3a3-4c10-80e9-2846872a5671)
+![Final Password Mager in AWS](https://github.com/MMease/Password-Manager/assets/42321472/b592303e-1690-4bf9-b8c5-9961518ac8e9)
