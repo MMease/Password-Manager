@@ -1,4 +1,4 @@
-<h1>Password Manager Hosted In Cloud</h1>
+<h1>Password Manager Hosted In AWS</h1>
 
 ![Password-Manager](https://github.com/MMease/Password-Manager/assets/42321472/7629f2db-a37f-4189-9239-826ee0f61f61)
 
